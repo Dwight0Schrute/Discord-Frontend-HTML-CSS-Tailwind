@@ -11,6 +11,4 @@ Tailwind CSS: Leverage the utility-first CSS framework for building responsive a
 
 JavaScript: Implement the necessary logic and interactivity of the application.
 
-![Screenshot 2023-06-08 at 11 25 49 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/509c9359-1c49-44f1-b381-d26b9e25c920)
-![Screenshot 2023-06-08 at 11 26 06 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/1fb36cb2-a32e-4e70-891f-7e05304e8ca7)
-![Screenshot 2023-06-08 at 11 26 31 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/aad37a62-78d8-4d72-9532-68113793133d)
+![Screenshot 2023-06-08 at 11 25 49 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/509c9359-1c49-44f1-b381-d26b9e25c920)![Screenshot 2023-06-08 at 11 26 06 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/1fb36cb2-a32e-4e70-891f-7e05304e8ca7)![Screenshot 2023-06-08 at 11 26 31 PM](https://github.com/Dwight0Schrute/Discord-Frontend-HTML-CSS-Tailwind/assets/81927711/aad37a62-78d8-4d72-9532-68113793133d)
